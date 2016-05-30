@@ -1,0 +1,15 @@
+baseurl = "http://localhost:63342/schutzgemeinschaft/public"
+languageCode = "de-DE"
+title = "Schutzgemeinschaft 110 KV"
+
+
+theme = "hyde-y"
+
+[params]
+    topline = "für eine **sinnvolle** Stromversorgung"
+
+    facebook = "schutzgemeinschaft.110kvNEINDANKE"
+    brand = "Schutzgemeinschaft 110KV"
+
+    #sidebar = "left"
+

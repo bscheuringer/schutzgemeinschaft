@@ -1,0 +1,14 @@
+[Aktuell]
+    Name = "Aktuell"
+    Title = "Aktuell"
+    URL = "/aktuell"
+
+
+[Schutzgemeinschaft]
+    Name = "Schutzgemeinschaft"
+    Title = "Schutzgemeinschaft"
+    URL = "/schutzgemeinschaft"
+
+[Ziele]
+    Name = "Ziele"
+    URL = "/ziele"
