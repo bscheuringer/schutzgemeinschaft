@@ -1,15 +1,34 @@
-baseurl = "http://localhost:63342/schutzgemeinschaft/public"
+baseurl = "http://localhost:63342/hugo_page/public/"
 languageCode = "de-DE"
-title = "Schutzgemeinschaft 110 KV"
+title = "Schutzgemeinschaft"
+
+theme = "hugo-phlat-theme"
+
+[[menu.header]]
+    name = "Home"
+    weight = 1
+    url = "/"
 
 
-theme = "hyde-y"
+[Social]
+  facebook = "http://www.facebook.com/schutzgemeinschaft.110kvNEINDANKE"
 
 [params]
-    topline = "für eine **sinnvolle** Stromversorgung"
+    sidebartitle = "SG 110KV"
+    sidebartagline = "Für eine SINNVOLLE Stromversorgung"
+    authorlink = false
+    socialsharing = true
+    keywords = ["default", "keywords", "if", "no", "front", "matter"]
+    description = "A description that will appear as a default if front matter does not exist"
+    categories = ["Energie AG", "Bürgermeister"]
+    favicon = "favicon.ico"
+    google_analytics = "UA-5073886-1"
+    subTitle = "für eine SINNVOLLE Stromversorgung"
 
-    facebook = "schutzgemeinschaft.110kvNEINDANKE"
-    brand = "Schutzgemeinschaft 110KV"
+[permalinks]
+        post = "/:year/:month/:slug/"
+        page = "/:slug/"
 
-    #sidebar = "left"
-
+[taxonomies]
+        tag = "tags"
+        category = "categories"

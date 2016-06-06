@@ -2,22 +2,23 @@
 author = "Schutzgemeinschaft"
 date = "2016-05-30T20:31:49+02:00"
 description = "Ziele der Schutzgemeinschaft - Was wollen wir ?"
-draft = false
+draft = true
 keywords = ["ziele"]
 title = "Ziele - Was wollen wir ?"
 type = "post"
+categories = ["Schutzgemeinschaft"]
 
 +++
 
 ### Ziele der Schutzgemeinschaft -  Was wollen wir? 
 
-Jammern, weil nichts weitergeht, oder Lösungen finden? Wir brauchen nicht darüber diskutieren, ob wir Strom brauchen! 
+* Jammern, weil nichts weitergeht, oder Lösungen finden? Wir brauchen nicht darüber diskutieren, ob wir Strom brauchen! 
 
-Wir brauchen nicht darüber disktutieren, ob die Stromversorgung ausreichend für Entwicklung in der Region sein soll! 
+* Wir brauchen nicht darüber disktutieren, ob die Stromversorgung ausreichend für Entwicklung in der Region sein soll! 
 
-Denn wir sind in dieser Region daheim, und wissen aus dem täglichen Leben, was und wie es hier läuft! 
+* Denn wir sind in dieser Region daheim, und wissen aus dem täglichen Leben, was und wie es hier läuft! 
 
-Wir wollen nicht mehr diskutieren, sondern umsetzbare LÖSUNGEN. Mit der betroffenen Bevölkerung und für die Region! 
+Wir wollen nicht mehr diskutieren, sondern **umsetzbare LÖSUNGEN**. Mit der betroffenen Bevölkerung und für die Region! 
 
 Wir sind für die Zukunft In tausenden von Stunden haben wir versucht, einen konstruktiven Beitrag für eine zukunftsorientierte 
 Stromversorgung in unserem Raum zu leisten. Das Transitgeschäft mit Strom ist vielleicht für Aktionäre luktrativ, aber 
